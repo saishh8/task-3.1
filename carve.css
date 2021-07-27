@@ -1,0 +1,52 @@
+/* MAIN PAGE */
+
+
+
+.box:hover{
+
+    box-shadow: 10px 10px 10px
+}
+
+.mtxt{
+
+
+    text-align: center;
+    color: rgb(238, 235, 235);
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: rgb(41, 41, 41);
+    
+}
+
+
+
+.header{
+
+    
+    padding-bottom: 20px;
+    padding-top: 20px;
+    color: white;
+    text-align: center;
+    background-image:linear-gradient(rgb(3, 95, 3),rgb(18, 121, 18),rgb(13, 177, 13));
+    font-family:'Times New Roman', Times, serif;
+
+}
+
+
+
+.row{
+
+
+    padding-bottom: 60px;
+
+}
+
+
+.hr{
+
+    border: 1.5px solid white;
+
+}
+
+
+
